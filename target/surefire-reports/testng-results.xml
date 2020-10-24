@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43" started-at="2020-09-21T04:56:38Z" finished-at="2020-09-21T04:56:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43" started-at="2020-09-21T04:56:38Z" finished-at="2020-09-21T04:56:38Z">
+      <class name="firstProject.SeleniumTest">
+        <test-method status="PASS" signature="demo5()[pri:0, instance:firstProject.SeleniumTest@59717824]" name="demo5" duration-ms="5" started-at="2020-09-21T10:26:38Z" finished-at="2020-09-21T10:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo5 -->
+        <test-method status="PASS" signature="demo6()[pri:0, instance:firstProject.SeleniumTest@59717824]" name="demo6" duration-ms="1" started-at="2020-09-21T10:26:38Z" finished-at="2020-09-21T10:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo6 -->
+      </class> <!-- firstProject.SeleniumTest -->
+      <class name="firstProject.AppiumTest">
+        <test-method status="PASS" signature="demo1()[pri:0, instance:firstProject.AppiumTest@7bc1a03d]" name="demo1" duration-ms="1" started-at="2020-09-21T10:26:38Z" finished-at="2020-09-21T10:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="demo2()[pri:0, instance:firstProject.AppiumTest@7bc1a03d]" name="demo2" duration-ms="1" started-at="2020-09-21T10:26:38Z" finished-at="2020-09-21T10:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- firstProject.AppiumTest -->
+      <class name="firstProject.RestAssuredTest">
+        <test-method status="PASS" signature="demo3()[pri:0, instance:firstProject.RestAssuredTest@70b0b186]" name="demo3" duration-ms="10" started-at="2020-09-21T10:26:38Z" finished-at="2020-09-21T10:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+        <test-method status="PASS" signature="demo4()[pri:0, instance:firstProject.RestAssuredTest@70b0b186]" name="demo4" duration-ms="2" started-at="2020-09-21T10:26:38Z" finished-at="2020-09-21T10:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo4 -->
+      </class> <!-- firstProject.RestAssuredTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
